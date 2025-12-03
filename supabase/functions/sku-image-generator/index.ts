@@ -6,7 +6,7 @@ const corsHeaders = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization, X-Client-Info, Apikey",
 };
 
-const N8N_WEBHOOK_URL = "https://tsp98-keerti.app.n8n.cloud/webhook-test/test-image-gen";
+#
 
 interface SKUQuery {
   query: string;
